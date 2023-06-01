@@ -1,8 +1,11 @@
-# Creatitivy
+##Creatitivy
 
 Seleção de artigos sobre Criatividade e Otimização de Modelos de Liguagem.
 
 1. Brainstorm, then Select: a Generative Language Model Improves Its Creativity Score. Data: 21/11/2022
+
+  . Authors: Douglas Summers-Stay, Stephanie Lukin, Clare Voss.
+  
   . Link: https://openreview.net/forum?id=8HwKaJ1wvl
   
   . Abstract: "Creative problem solving is a crucial ability for intelligent agents. A common method that individuals or groups use to invent creative solutions is to start with a “brainstorming” phase, where many solutions to a problem are proposed, and then to follow with a “selection” phase, where those solutions are judged by some criteria so that the best solutions can be selected. Using the Alternate Uses Task, a test for divergent thinking abilities (a key aspect of creativity) we show that when a large language model is given a sequence of prompts that include both brainstorming and selection phases, its performance improves over brainstorming alone. Furthermore, we show that by following this paradigm, a large language model can even achieve higher than average human performance on the same task. Following our analysis, we propose further research to gain a clearer understanding of what counts as “creativity” in language models."
